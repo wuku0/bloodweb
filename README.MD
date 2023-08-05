@@ -1,4 +1,4 @@
-## Auto leveler for DBD Bloodweb Leveling
+## Auto leveler for DBD Bloodweb
 
 ### Overview
 

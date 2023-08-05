@@ -18,6 +18,14 @@ This repository contains a simple Python script that acts as an auto clicker to 
 3. In the GUI window, press the "RUN (R)" button to start the auto-leveling process.
 5. To stop the automation, press the "STOP (S)" button or close the GUI window.
 
+## Known Issues
+- Windows Defender and some other antivirus applications may report a threat. This is due to a library used to
+  compile the application. You should be able to configure your antivirus to ignore this.
+  To document that this software contains no malicious content, here are some threads detailing the problem:
+    - https://github.com/pyinstaller/pyinstaller/issues/6754
+    - https://www.reddit.com/r/learnpython/comments/ng3hmp/pyinstaller_create_onefile_exe_windows/
+    - https://stackoverflow.com/questions/43777106/program-made-with-pyinstaller-now-seen-as-a-trojan-horse-by-avg
+
 ### Important Note
 
 Although there seems to be no danger in using this script. Use this script responsibly and only for personal use. Automating tasks in games or applications might be against their terms of service, and it can potentially result in penalties or account suspension. Always ensure you have proper permissions to automate any task.

@@ -6,8 +6,8 @@ This repository contains a simple Python script that acts as an auto clicker to 
 
 ### Usage
 > WINDOWS
-1. Go to [releases](https://github.com/wuku0/bloodweb/releases) and download the current version (.exe)
-2. Run the executable
+1. Go to [releases](https://github.com/wuku0/bloodweb/releases) and download the current version `.exe`
+2. Run the `.exe`
 3. In the GUI window, press the "RUN (R)" button to start the auto-leveling process.
 5. To stop the automation, press the "STOP (S)" button or close the GUI window.
 

@@ -13,7 +13,7 @@ This repository contains a simple Python script that acts as an auto clicker to 
 
 
 > LINUX / OSX
-1. Install the required libraries by running: `pip install pyautogui keyboard tkinter requests webbrowser`. (--break-system-packages might be required on some distros)
+1. Install the required libraries by running: `pip install pyautogui keyboard tkinter requests webbrowser`. (--break-system-packages flag might be required on some distros)
 2. Run the `main.py` script, or download [latest release `.py`](https://github.com/wuku0/bloodweb/releases). (Root access might be required.)
 3. In the GUI window, press the "RUN (R)" button to start the auto-leveling process.
 5. To stop the automation, press the "STOP (S)" button or close the GUI window.
